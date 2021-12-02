@@ -1,4 +1,4 @@
-my_file = open("ship.txt", "r")
+my_file = open("ship2.txt", "r")
 content = my_file.read()
 content_list = content.split("\n")
 my_file.close()
